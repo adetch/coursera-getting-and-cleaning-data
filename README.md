@@ -2,7 +2,7 @@
 
 ## Code
 
-There is one relevant file, `run_analysis.R` that runs several analyses (detailed in CodeBook.md) and produces a tidy data file `tidy.txt`
+There is one relevant file, `run_analysis.R` that runs several analyses (detailed in `CodeBook.md`) and outputs tidy data file `tidy.txt`
 
 ## Assumptions
 

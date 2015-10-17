@@ -1,6 +1,6 @@
 library('dplyr')
 
-# Download
+# Download and unzip
 
 UCIzip = "./UCI HAR Dataset.zip"
 UCIdir = "./UCI HAR Dataset/"

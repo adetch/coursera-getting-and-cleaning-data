@@ -42,7 +42,7 @@ merged_data<-cbind(
 )
 
 ############################################################################################
-# 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+# 2. Extracts only the mean and standard deviation measurements.
 ############################################################################################
 
 colnames(merged_data)<-gsub("-mean\\(\\)", "MEAN", colnames(merged_data))

@@ -77,6 +77,6 @@ final_data <- merged_data %>%
   group_by(subject, activity) %>%
   summarize_each(funs(mean))
 
-write.table(final_data, 'tidy.txt')
+write.table(final_data, 'tidy.txt', row.names=FALSE)
 
 

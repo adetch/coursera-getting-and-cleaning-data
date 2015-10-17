@@ -1,5 +1,9 @@
 # Getting and Cleaning Data Course Project
 
+## Overview
+
+This repo contains code to complete the course project for class 3 in Coursera's Data Science specialization: Getting and Cleaning Data.
+
 ## Code
 
 There is one relevant file, `run_analysis.R` that runs several analyses (detailed in `CodeBook.md`) and outputs tidy data file `tidy.txt`
